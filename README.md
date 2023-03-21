@@ -1,4 +1,4 @@
-# Nullbits Scramble V1 OLED Rotary Encoder 5-Key VIA-Compatible Macro Keypad
+# Nullbits Scramble V1 OLED Rotary Encoder 5-Key VIA-Compatible Macro Keypad (Or `ORV` - OLED Rotary VIA - for short)
 
 Finally a Nullbits Scramble macro keyboard build with firmware that supports VIA, OLED, rotary encoder, and maintains 5-key operation within a custom 3D-printable case.
 
