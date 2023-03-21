@@ -32,4 +32,4 @@ Full disclosure: I did use someone else's base keymap.c file, and modified it to
 - Aside from all of that - you will have to modify the VIA macros with your preferred method of opening apps for things like opening chrome, or playing games like COD, Apex Legends, and Liftoff. I simply am telling it to open the Windows Run window, type in the direct path to the game's location on my computer, and hit enter. You will have to find those exact paths from within the applications properties, and replace the strings inside of VIA with your specific file location in order to make that work. Or you can set shortcut key-binds to the games via a shortcut on your desktop and launch the games that way. Simply right-click the shortcut, select properties, and then look for somewhere within those tabs to add a shortcut. Selet the line and press the single key you would like to bind it with, and you should then see a key command for Control + Alt + `your selected key` populated in the box. Apply your new settings, adjust the macro in VIA, and give it a try.
 
 
-Enjoy!
+# Enjoy!
