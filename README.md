@@ -42,3 +42,5 @@ Full disclosure: I did use someone else's base keymap.c file, and modified it to
 - Be sure to mark/follow your OLED wires precisely so that you get your connections are correct from the PCB to the display. I used some blue painters tape and a sharpee to keep them straight.
 
 # Enjoy!
+
+Be sure to add your builds to the Scramble section or Build Chat of the Nullbits discord if you utilize any part of this! I would love to see it.
