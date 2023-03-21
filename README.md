@@ -14,7 +14,7 @@ Full disclosure: I did use someone else's base keymap.c file, and modified it to
 # Layout:
 - Top row (when USB port is on the left) is configured as `1, 2, and encoder click being 3` in terms of label/key corrilation
 - Bottom row (when USB port is on the left) is configured as `4, 5, and 6` in terms of label/key corrilation
-- This was created on/for the V1 Scramble - however I have included the `elf` (and `map)` file which I believe should work to do the same thing for the Scramble V2 (however I am not sure on this, so you may want to do some more research to confirm this before you flash/add it to your V2 Scramble).
+- This was created on/for the V1 Scramble - however I have included the `elf` (and `map`) file which I believe should work to do the same thing for the Scramble V2 (however I am not sure on this, so you may want to do some more research to confirm this before you flash/add it to your V2 Scramble).
 
 # OLED Display:
 - Displays current layer as well as binds for each of the keys in that layer
