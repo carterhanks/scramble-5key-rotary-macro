@@ -1,0 +1,36 @@
+{
+  "name": "SCRAMBLE",
+  "vendorProductId": 1851875426,
+  "macros": [
+    "",
+    "",
+    "",
+    "{KC_LCTL,KC_V}",
+    "{KC_LCTL,KC_C}",
+    "{KC_LCTL,KC_LSFT,KC_O}",
+    "{+KC_LGUI}r{-KC_LGUI}chrome.exe{KC_ENT}",
+    "{KC_LCTL,KC_LALT,KC_L}",
+    "{+KC_LGUI}r{-KC_LGUI}D:\\SteamLibrary\\steamapps\\common\\Apex Legends\\r5apex.exe{KC_ENT}",
+    "{+KC_LGUI}r{-KC_LGUI}D:\\Battle.net Games\\Call of Duty\\Call of Duty Launcher.exe{KC_ENT}",
+    "{KC_LALT,KC_F4}",
+    "{KC_LCTL,KC_LALT,KC_B}",
+    "{KC_LGUI,KC_G}",
+    "{KC_LCTL,KC_Z}",
+    "{KC_LGUI,KC_PSCR}",
+    "{+KC_LGUI}r{-KC_LGUI}C:\\Users\\carte\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Spotify.lnk{KC_ENT}"
+  ],
+  "layers": [
+    ["MACRO(14)", "KC_SLEP", "KC_PWR", "MACRO(4)", "MACRO(3)", "MACRO(13)"],
+    ["MACRO(12)", "MACRO(11)", "MACRO(10)", "MACRO(9)", "MACRO(8)", "MACRO(7)"],
+    ["KC_F19", "MACRO(15)", "KC_MUTE", "KC_MPRV", "KC_MPLY", "KC_MNXT"],
+    [
+      "MACRO(6)",
+      "MACRO(5)",
+      "KC_WWW_HOME",
+      "KC_WWW_BACK",
+      "KC_WWW_REFRESH",
+      "KC_WWW_FORWARD"
+    ]
+  ],
+  "encoders": []
+}
